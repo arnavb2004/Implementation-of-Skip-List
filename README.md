@@ -5,11 +5,16 @@ This repository contains a simple implementation of a Skip List data structure i
 After running the program, user is asked to enter maximum number of enteries in the skip list.
 After that a menu appears giving user 5 choices:
 
-Operations on Skip list
+Operations on Skip list:
+
 1.Insert Element
+
 2.Search Element
+
 3.Delete Element
+
 4.Display List
+
 5.Exit
 
 User can enter the choice according to their need.
