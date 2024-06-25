@@ -4,7 +4,7 @@
 #include <cmath>
 using namespace std;
 
-int MAX_LEVEL; // Maximum Level of the Skip List 
+int MAX_LEVEL; // Maximum Level of the Skip-List 
 
 struct Node {
     int data;
