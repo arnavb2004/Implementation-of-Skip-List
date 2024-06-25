@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <climits>
 #include <cmath>
-
 using namespace std;
 
 int MAX_LEVEL; // Maximum Level of the Skip List 
